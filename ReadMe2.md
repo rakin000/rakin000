@@ -1,12 +1,3 @@
-### Hi there,
-
-- 🔭 I’m currently working on NOTHING
-- 🌱 I’m currently learning NOTHING
-- 👯 I’m looking to collaborate on ANYTHING
-- 🤔 I’m looking for help with WYAIWYG
-- 📫 How to reach me: rakinkzs@gmail.com, 1805012@ugrad.cse.buet.ac.bd
-- ⚡ Fun fact: I HATE CODING
-
 
 ## 🌐Socials
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11190961) 
