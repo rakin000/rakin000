@@ -1,5 +1,5 @@
 ### Hi there,
-I'm Aszadur Rahman Rakin, currently a Computer Engineering PhD student, Boston University. 
+I'm Rakin, currently a Computer Engineering PhD student, Boston University. 
 - 📫 How to reach me: rakin@bu.edu, rakinkzs@gmail.com, 1805012@ugrad.cse.buet.ac.bd
 
 
